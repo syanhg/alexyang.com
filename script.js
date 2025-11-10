@@ -10,7 +10,7 @@ resizeCanvas();
 window.addEventListener('resize', resizeCanvas);
 
 // Grid settings
-const gridSize = 20; // Size of each grid square in pixels
+const gridSize = 10; // Size of each grid square in pixels
 const trailPixels = [];
 const maxTrailLength = 50;
 
